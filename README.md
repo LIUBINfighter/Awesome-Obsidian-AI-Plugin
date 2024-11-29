@@ -1,0 +1,1 @@
+Awesome-Obsidian-AI-Plugin
