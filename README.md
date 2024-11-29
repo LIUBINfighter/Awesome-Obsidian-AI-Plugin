@@ -6,7 +6,7 @@ Awesome-Obsidian-AI-Plugin
 | Local GPT           | [pfrankov/obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt)                       | 18.7k    | 328  | last week   |
 | Copilot                 | [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)                       | 264k     | 3.1k | 9 hours ago |
 | Smart2Brain         | [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain)                 | 25.1k    | 633  | 6months ago |
-
+|MantouAI | https://github.com/ravenSanstete/Obsidian-MantouAI | 83 | | 9months ago|
 
 
 ## My evaluation document
